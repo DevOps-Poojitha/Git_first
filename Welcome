@@ -1,1 +1,5 @@
-Hello everyone!Good morning.This is Poojitha
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
