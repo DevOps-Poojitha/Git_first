@@ -1,4 +1,6 @@
 First file in DevOps.
 Modified to verify about the Staged and Unstaged files.
+Added new line for verifying the git pull,git fetch and git merge.
 git pull = git fetch + git merge.
+
 
