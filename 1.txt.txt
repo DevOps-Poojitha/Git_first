@@ -1,0 +1,3 @@
+First file in DevOps.
+Modified to verify about the Staged and Unstaged files.
+
