@@ -1,1 +1,2 @@
 Added new file to verify git fetch & git merge.
+Git fetch is used to get changes done in repo to Index only but not Local PC.
