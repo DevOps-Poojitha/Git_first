@@ -1,2 +1,6 @@
 Added file to check ORT strategy.
+
 checking same file name with different code change.
+
+checking the concept of ORT manual merges.
+
