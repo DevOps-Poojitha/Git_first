@@ -1,1 +1,2 @@
 Added file to check ORT strategy.
+checking the concept of ORT manual merges.
